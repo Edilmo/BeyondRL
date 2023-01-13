@@ -1,0 +1,32 @@
+# PyCharm
+/.idea/workspace.xml
+/.idea/libraries/
+/.idea/dictionaries/
+/.idea/other.xml
+/.idea/modules/root.iml
+/.idea/inspectionProfiles/profiles_settings.xml
+/.idea/codeStyles
+/env
+
+# Setuptools
+/dist
+
+# Nox
+/.nox
+
+# PyTest
+/.pytest_cache
+/.coverage*
+.idea/misc.xml
+.idea/modules.xml
+.idea/txp.iml
+.idea/vcs.xml
+*.pyc
+examples/icomox/icomoxdata.p
+
+# PyEnv
+/.python-version
+/src/streamlit/.streamlit/
+/src/.streamlit
+.idea/csv-plugin.xml
+src/txp/web/.streamlit/secrets.toml
